@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1abneesh&label=Profile%20views&color=0e75b6&style=flat" alt="1abneesh" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
-
 - 💬 Ask me about **Machine learning, data structure and algorithms**
 
 - 📫 How to reach me **01abneeshkumar@gmail.com**

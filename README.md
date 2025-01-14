@@ -1,14 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abneesh Kumar</h1>
-<h3 align="center">
-  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/512px-Oracle_logo.svg.png" 
-       alt="Oracle Logo" 
-       decoding="async" 
-       width="50" 
-       height="6" 
-       style="vertical-align: middle; margin-right: 10px;">
-  Application Developer at Oracle
-</h3>
+<img alt="File:Oracle Corporation logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/32px-Oracle_Corporation_logo.svg.png?20220125115241" decoding="async" width="32" height="20" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/48px-Oracle_Corporation_logo.svg.png?20220125115241 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/64px-Oracle_Corporation_logo.svg.png?20220125115241 2x" data-file-width="32" data-file-height="20">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1abneesh&label=Profile%20views&color=0e75b6&style=flat" alt="1abneesh" /> </p>

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abneesh Kumar</h1>
 <h3 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Oracle_logo.svg" alt="Oracle Logo" style="vertical-align: middle; width: 30px; height: auto;">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a2/Oracle_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/768px-Oracle_logo.svg.png)" alt="Oracle Logo" style="vertical-align: middle; width: 30px; height: auto;">
   Application Developer at Oracle
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">

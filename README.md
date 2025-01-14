@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abneesh Kumar</h1>
-<img alt="File:Oracle Corporation logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/32px-Oracle_Corporation_logo.svg.png?20220125115241" decoding="async" width="32" height="20" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/48px-Oracle_Corporation_logo.svg.png?20220125115241 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/64px-Oracle_Corporation_logo.svg.png?20220125115241 2x" data-file-width="32" data-file-height="20">
+
 <h3 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/32px-Oracle_Corporation_logo.svg.png?20220125115241" 
        alt="Oracle Logo" 

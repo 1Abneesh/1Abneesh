@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Abneesh Kumar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Oracle_logo.svg" alt="Oracle Logo" style="vertical-align: middle; width: 30px; height: auto;">
+  Application Developer at Oracle
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1abneesh&label=Profile%20views&color=0e75b6&style=flat" alt="1abneesh" /> </p>
